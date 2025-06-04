@@ -28,7 +28,7 @@ python .\soal2\app.py
 ## 3. Soal 3  
 **File:** `soal3/main.py`, `function/weather_helper.py`  
 **Fungsi:** Meminta interval waktu dan nama kota, kemudian mengambil data cuaca (temperatur & kelembapan) secara periodik dari OpenWeather API.  
-**Dependensi:** `requests` `function`
+**Dependensi:** `requests` `function`<br>
 **Cara install dependensi:**  
 ```bash
 pip install requests function
